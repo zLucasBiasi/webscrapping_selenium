@@ -1,0 +1,1591 @@
+1670865846177	geckodriver	INFO	Listening on 127.0.0.1:50545
+1670865846641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49225" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5N7C5q"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670865851371	Marionette	INFO	Marionette enabled
+1670865851385	Marionette	INFO	Listening on port 35181
+Read port: 35181
+WebDriver BiDi listening on ws://127.0.0.1:49225
+1670865852078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5N7C5q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49225/devtools/browser/43c8d87b-7b2a-4c39-93ee-fa9ef89eeb27
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+1670865925573	geckodriver	INFO	Listening on 127.0.0.1:41493
+1670865925614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34255" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHEy5Oi"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670865926120	Marionette	INFO	Marionette enabled
+1670865926124	Marionette	INFO	Listening on port 46855
+WebDriver BiDi listening on ws://127.0.0.1:34255
+Read port: 46855
+1670865926332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHEy5Oi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34255/devtools/browser/8a74ce77-8cef-4619-b6ad-a8d82d1d3a7b
+1670865929372	Marionette	INFO	Stopped listening on port 35181
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2q57ynox1ewa2v1doyy3ccsun, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670865975647	Marionette	INFO	Stopped listening on port 46855
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670865977635	geckodriver	INFO	Listening on 127.0.0.1:52547
+1670865977671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoPkNzb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670865978200	Marionette	INFO	Marionette enabled
+1670865978204	Marionette	INFO	Listening on port 37207
+WebDriver BiDi listening on ws://127.0.0.1:50673
+Read port: 37207
+1670865978324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoPkNzb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50673/devtools/browser/7bbda718-7eb1-449b-b5d1-949119f9ff1f
+1670865989892	geckodriver	INFO	Listening on 127.0.0.1:35105
+1670865990433	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49697" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXr16tM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670865990971	Marionette	INFO	Marionette enabled
+1670865990974	Marionette	INFO	Listening on port 42467
+Read port: 42467
+WebDriver BiDi listening on ws://127.0.0.1:49697
+1670865991078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXr16tM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49697/devtools/browser/6df94dbe-3504-4695-9609-a0edc63dbfc3
+JavaScript warning: https://static.licdn.com/sc/h/2q57ynox1ewa2v1doyy3ccsun, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670865994884	Marionette	INFO	Stopped listening on port 37207
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670865996545	Marionette	INFO	Stopped listening on port 42467
+1670866090687	geckodriver	INFO	Listening on 127.0.0.1:52145
+1670866090730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYLBscs"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670866091248	Marionette	INFO	Marionette enabled
+1670866091253	Marionette	INFO	Listening on port 35897
+WebDriver BiDi listening on ws://127.0.0.1:44855
+Read port: 35897
+1670866091383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYLBscs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44855/devtools/browser/97c974db-de15-42ab-a79f-152d280bb718
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2q57ynox1ewa2v1doyy3ccsun, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://d335luupugsy2.cloudfront.net/scout/bundle.js, line 1: TypeError: e is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670866449006	Marionette	INFO	Stopped listening on port 35897
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670866450869	geckodriver	INFO	Listening on 127.0.0.1:50765
+1670866450907	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38471" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerJrG6o"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670866451435	Marionette	INFO	Marionette enabled
+1670866451438	Marionette	INFO	Listening on port 42151
+WebDriver BiDi listening on ws://127.0.0.1:38471
+Read port: 42151
+1670866451629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerJrG6o/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38471/devtools/browser/4823b326-48c3-4f30-9a4a-f488fe55319f
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1k1xa20mhrefbm4mu6uim2qxw, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670866463918	Marionette	INFO	Stopped listening on port 42151
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670866468937	geckodriver	INFO	Listening on 127.0.0.1:59591
+1670866468981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55591" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilem1d6NX"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670866469503	Marionette	INFO	Marionette enabled
+1670866469506	Marionette	INFO	Listening on port 38053
+WebDriver BiDi listening on ws://127.0.0.1:55591
+Read port: 38053
+1670866469697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilem1d6NX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55591/devtools/browser/6c75334d-c8b9-46ae-936f-f60673cd00a2
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1k1xa20mhrefbm4mu6uim2qxw, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/UrlbarProviderHeuristicFallback.sys.mjs, line 198: URIError: malformed URI sequence
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1k1xa20mhrefbm4mu6uim2qxw, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1k1xa20mhrefbm4mu6uim2qxw, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+1670866545266	geckodriver	INFO	Listening on 127.0.0.1:34655
+1670866545308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50607" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileq6So32"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670866545861	Marionette	INFO	Marionette enabled
+1670866545866	Marionette	INFO	Listening on port 46185
+Read port: 46185
+WebDriver BiDi listening on ws://127.0.0.1:50607
+1670866545973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileq6So32/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50607/devtools/browser/00d0695e-b06b-47ad-b419-41a945976da7
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1k1xa20mhrefbm4mu6uim2qxw, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670866549423	Marionette	INFO	Stopped listening on port 46185
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670866557778	geckodriver	INFO	Listening on 127.0.0.1:33565
+1670866558314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoFsklw"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670866558860	Marionette	INFO	Marionette enabled
+1670866558863	Marionette	INFO	Listening on port 38209
+Read port: 38209
+WebDriver BiDi listening on ws://127.0.0.1:56303
+1670866558974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoFsklw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56303/devtools/browser/633599e3-5b23-4202-9ac8-341852b2e386
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1k1xa20mhrefbm4mu6uim2qxw, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670866563884	Marionette	INFO	Stopped listening on port 38209
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+1670866612609	Marionette	INFO	Stopped listening on port 38053
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670867732159	geckodriver	INFO	Listening on 127.0.0.1:35281
+1670867732192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45765" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuFxVeh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670867732747	Marionette	INFO	Marionette enabled
+1670867732752	Marionette	INFO	Listening on port 40423
+Read port: 40423
+WebDriver BiDi listening on ws://127.0.0.1:45765
+1670867732851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuFxVeh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45765/devtools/browser/44d44137-8b90-455e-8710-2bea5ee7d69d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670867865708	Marionette	INFO	Stopped listening on port 40423
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670867868147	geckodriver	INFO	Listening on 127.0.0.1:38369
+1670867868180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8rPsAi"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670867868696	Marionette	INFO	Marionette enabled
+1670867868699	Marionette	INFO	Listening on port 33479
+WebDriver BiDi listening on ws://127.0.0.1:50709
+Read port: 33479
+1670867868900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8rPsAi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50709/devtools/browser/7d49186b-c925-4e97-9aa5-4d5f9e8c2134
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670868000916	Marionette	INFO	Stopped listening on port 33479
+1670868004164	geckodriver	INFO	Listening on 127.0.0.1:38637
+1670868004194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHIkLpU"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670868004656	Marionette	INFO	Marionette enabled
+1670868004660	Marionette	INFO	Listening on port 39377
+Read port: 39377
+WebDriver BiDi listening on ws://127.0.0.1:42499
+1670868004751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHIkLpU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42499/devtools/browser/1e3f15e6-37fa-4209-ae46-4770301183bd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-972685928%3A1670868023576279&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh6lfD-_Txaj4oZ5CWJn71TBTqw4cPqnVmezEfe2D63efS8rKGJe4P_hZxp4p1F242ig53BMkg line 534 > injectedScript line 2 > eval line 1301 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+1670868141937	Marionette	INFO	Stopped listening on port 39377
+1670868144778	geckodriver	INFO	Listening on 127.0.0.1:34423
+1670868144807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42575" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilec6Dhkf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670868145299	Marionette	INFO	Marionette enabled
+1670868145302	Marionette	INFO	Listening on port 45291
+Read port: 45291
+WebDriver BiDi listening on ws://127.0.0.1:42575
+1670868145388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilec6Dhkf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42575/devtools/browser/7bcedcaa-2489-4f21-b863-e3d622b4a6ad
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+1670868321816	Marionette	INFO	Stopped listening on port 45291
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670868324903	geckodriver	INFO	Listening on 127.0.0.1:60745
+1670868324935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35285" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIdp8YN"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670868325440	Marionette	INFO	Marionette enabled
+1670868325445	Marionette	INFO	Listening on port 38717
+Read port: 38717
+WebDriver BiDi listening on ws://127.0.0.1:35285
+1670868325582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIdp8YN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35285/devtools/browser/1e754752-3ae6-4726-bcaf-665cba5f690e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+1670868423874	geckodriver	INFO	Listening on 127.0.0.1:48691
+1670868423910	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTJBkrR"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670868424419	Marionette	INFO	Marionette enabled
+1670868424423	Marionette	INFO	Listening on port 46805
+WebDriver BiDi listening on ws://127.0.0.1:59975
+Read port: 46805
+1670868424641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTJBkrR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59975/devtools/browser/fe6e18a7-eb1c-4c63-94d1-e33416d43fbb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+1670868444327	Marionette	INFO	Stopped listening on port 46805
+1670868446017	Marionette	INFO	Stopped listening on port 38717
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670868448048	geckodriver	INFO	Listening on 127.0.0.1:35057
+1670868448581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51681" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefRjRUA"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670868449112	Marionette	INFO	Marionette enabled
+1670868449117	Marionette	INFO	Listening on port 37747
+Read port: 37747
+WebDriver BiDi listening on ws://127.0.0.1:51681
+1670868449237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefRjRUA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51681/devtools/browser/7a0ff161-e926-40a2-b0c4-df917302059e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+1670868463282	Marionette	INFO	Stopped listening on port 37747
+1670868475644	geckodriver	INFO	Listening on 127.0.0.1:59567
+1670868476180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0P2nDw"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670868476693	Marionette	INFO	Marionette enabled
+1670868476696	Marionette	INFO	Listening on port 46069
+WebDriver BiDi listening on ws://127.0.0.1:55867
+Read port: 46069
+1670868476916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0P2nDw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55867/devtools/browser/4228fe31-f931-4397-9888-db9b47cf996c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/64m2jjp8xub8sum2ip5lg6vb8, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+1670868501208	Marionette	INFO	Stopped listening on port 46069
+1670868556898	geckodriver	INFO	Listening on 127.0.0.1:52107
+1670868557429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46789" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFuLeDs"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670868557922	Marionette	INFO	Marionette enabled
+1670868557926	Marionette	INFO	Listening on port 45235
+Read port: 45235
+WebDriver BiDi listening on ws://127.0.0.1:46789
+1670868558025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFuLeDs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46789/devtools/browser/b58ff1d7-8e64-4b4b-a06e-0ba10f61e6a3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/64m2jjp8xub8sum2ip5lg6vb8, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+1670868573193	Marionette	INFO	Stopped listening on port 45235
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670868593605	geckodriver	INFO	Listening on 127.0.0.1:35435
+1670868593642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39583" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecVdBW2"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670868594165	Marionette	INFO	Marionette enabled
+1670868594169	Marionette	INFO	Listening on port 43099
+WebDriver BiDi listening on ws://127.0.0.1:39583
+Read port: 43099
+1670868594358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecVdBW2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39583/devtools/browser/bc30aac5-8938-4524-ac0b-7417a5d341be
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/64m2jjp8xub8sum2ip5lg6vb8, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+1670868610896	Marionette	INFO	Stopped listening on port 43099
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670868667463	geckodriver	INFO	Listening on 127.0.0.1:47279
+1670868667495	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaLkCUP"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670868668004	Marionette	INFO	Marionette enabled
+1670868668008	Marionette	INFO	Listening on port 41613
+WebDriver BiDi listening on ws://127.0.0.1:47671
+Read port: 41613
+1670868668229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaLkCUP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47671/devtools/browser/2f93cc14-c15d-4b7e-a499-616ded5c74ba
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+1670868693376	Marionette	INFO	Stopped listening on port 41613
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670868740457	geckodriver	INFO	Listening on 127.0.0.1:39231
+1670868740494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCeJObz"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670868741044	Marionette	INFO	Marionette enabled
+1670868741049	Marionette	INFO	Listening on port 40235
+Read port: 40235
+WebDriver BiDi listening on ws://127.0.0.1:50813
+1670868741162	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCeJObz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50813/devtools/browser/f34b5aa7-191d-47f3-8b1a-6e6fc86bf9f1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+1670868783270	Marionette	INFO	Stopped listening on port 40235
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670869035263	geckodriver	INFO	Listening on 127.0.0.1:60063
+1670869035800	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57735" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegFqSw2"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670869036345	Marionette	INFO	Marionette enabled
+1670869036349	Marionette	INFO	Listening on port 33455
+Read port: 33455
+WebDriver BiDi listening on ws://127.0.0.1:57735
+1670869036448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegFqSw2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57735/devtools/browser/39864f6c-a052-4763-a51a-c7d9acf0416d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+1670869103540	Marionette	INFO	Stopped listening on port 33455
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670869105563	geckodriver	INFO	Listening on 127.0.0.1:40163
+1670869106098	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileosFC9B"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670869106636	Marionette	INFO	Marionette enabled
+1670869106641	Marionette	INFO	Listening on port 41089
+Read port: 41089
+WebDriver BiDi listening on ws://127.0.0.1:43465
+1670869106751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileosFC9B/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43465/devtools/browser/be70548e-77c4-4b83-8d13-3c2417914415
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+1670869126769	Marionette	INFO	Stopped listening on port 41089
+1670869128247	geckodriver	INFO	Listening on 127.0.0.1:51867
+1670869128286	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52837" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNibnq5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670869128831	Marionette	INFO	Marionette enabled
+1670869128834	Marionette	INFO	Listening on port 37559
+Read port: 37559
+WebDriver BiDi listening on ws://127.0.0.1:52837
+1670869128934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNibnq5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52837/devtools/browser/d0bb8414-2a9c-4edc-982d-af9f7cd72665
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/64m2jjp8xub8sum2ip5lg6vb8, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+1670869189580	Marionette	INFO	Stopped listening on port 37559
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670869191297	geckodriver	INFO	Listening on 127.0.0.1:49677
+1670869191332	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35577" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNfttPc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670869191838	Marionette	INFO	Marionette enabled
+1670869191842	Marionette	INFO	Listening on port 40991
+WebDriver BiDi listening on ws://127.0.0.1:35577
+Read port: 40991
+1670869192100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNfttPc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35577/devtools/browser/dee30650-30e0-4077-be86-0b2f6c9222b5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+1670869209558	Marionette	INFO	Stopped listening on port 40991
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670869211006	geckodriver	INFO	Listening on 127.0.0.1:49731
+1670869211042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38235" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePCO3ez"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670869211578	Marionette	INFO	Marionette enabled
+1670869211581	Marionette	INFO	Listening on port 41505
+Read port: 41505
+WebDriver BiDi listening on ws://127.0.0.1:38235
+1670869211699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePCO3ez/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38235/devtools/browser/d3c562ec-a514-43ef-955d-30cf5094239c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+1670869605956	Marionette	INFO	Stopped listening on port 41505
+1670869607785	geckodriver	INFO	Listening on 127.0.0.1:43209
+1670869607825	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6lajuB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670869608344	Marionette	INFO	Marionette enabled
+1670869608347	Marionette	INFO	Listening on port 41591
+WebDriver BiDi listening on ws://127.0.0.1:39731
+Read port: 41591
+1670869608537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6lajuB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39731/devtools/browser/a7e2dd3d-0354-409a-a799-13137b0869c0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+1670869730696	geckodriver	INFO	Listening on 127.0.0.1:56977
+1670869730729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVzd7km"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670869731252	Marionette	INFO	Marionette enabled
+1670869731256	Marionette	INFO	Listening on port 46133
+WebDriver BiDi listening on ws://127.0.0.1:41317
+Read port: 46133
+1670869731468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVzd7km/search.json.mozlz4", (void 0)))
+1670869732596	Marionette	INFO	Stopped listening on port 41591
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://127.0.0.1:41317/devtools/browser/854d695c-fff3-4e33-8a6f-324dda869617
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670869758714	Marionette	INFO	Stopped listening on port 46133
+1670870111553	geckodriver	INFO	Listening on 127.0.0.1:35739
+1670870112090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40375" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegcUAA6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670870112640	Marionette	INFO	Marionette enabled
+1670870112645	Marionette	INFO	Listening on port 38241
+Read port: 38241
+WebDriver BiDi listening on ws://127.0.0.1:40375
+1670870112764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegcUAA6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40375/devtools/browser/36adfd4e-8baf-4ffa-968d-efddb72f7ad3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript error: https://www.hashtagtreinamentos.com/wp-content/themes/hashtag/assets/src/carousel/index.js?ver=6.1.1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670870452596	geckodriver	INFO	Listening on 127.0.0.1:56465
+1670870452626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJ8W3f3"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670870453119	Marionette	INFO	Marionette enabled
+1670870453124	Marionette	INFO	Listening on port 45573
+Read port: 45573
+WebDriver BiDi listening on ws://127.0.0.1:54461
+1670870453219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJ8W3f3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54461/devtools/browser/7f7abb51-e49d-4472-913d-1332d8d0546e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/7dzsoyz1bsr7e64b321m3tjgi, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/aero-v1/sc/h/etkd25e7kzp2lrg1w9y0kixlu
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/7dzsoyz1bsr7e64b321m3tjgi, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/aero-v1/sc/h/98lptr8kagfxge22q7k1fps8
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1670870455568	Marionette	INFO	Stopped listening on port 38241
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670870594850	Marionette	INFO	Stopped listening on port 45573
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670870596639	geckodriver	INFO	Listening on 127.0.0.1:47753
+1670870596678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehPwoiT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670870597289	Marionette	INFO	Marionette enabled
+1670870597294	Marionette	INFO	Listening on port 42201
+WebDriver BiDi listening on ws://127.0.0.1:54883
+Read port: 42201
+1670870597524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehPwoiT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54883/devtools/browser/09555140-aee2-4137-9d54-c74b3ac66662
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670870675730	Marionette	INFO	Stopped listening on port 42201
+1670870678420	geckodriver	INFO	Listening on 127.0.0.1:44221
+1670870678958	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60181" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexMX2lm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670870679476	Marionette	INFO	Marionette enabled
+1670870679480	Marionette	INFO	Listening on port 38131
+WebDriver BiDi listening on ws://127.0.0.1:60181
+Read port: 38131
+1670870679618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexMX2lm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60181/devtools/browser/cc53292b-b495-4a45-a6bc-e9a5ac30689e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670870709246	geckodriver	INFO	Listening on 127.0.0.1:53551
+1670870709287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileChy3TV"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670870709815	Marionette	INFO	Marionette enabled
+1670870709819	Marionette	INFO	Listening on port 39131
+Read port: 39131
+WebDriver BiDi listening on ws://127.0.0.1:60221
+1670870709937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileChy3TV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60221/devtools/browser/845f16a7-56ed-4165-8b52-a3738a0c3d52
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670870717733	Marionette	INFO	Stopped listening on port 38131
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670870750310	geckodriver	INFO	Listening on 127.0.0.1:52811
+1670870750341	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54589" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekqlZZC"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670870750853	Marionette	INFO	Marionette enabled
+1670870750858	Marionette	INFO	Listening on port 33893
+WebDriver BiDi listening on ws://127.0.0.1:54589
+Read port: 33893
+1670870751059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekqlZZC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54589/devtools/browser/c93ca76c-162c-4e64-b2f0-589fa3dd474a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670870754647	Marionette	INFO	Stopped listening on port 39131
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670870789282	Marionette	INFO	Stopped listening on port 33893
+1670871017740	geckodriver	INFO	Listening on 127.0.0.1:39731
+1670871017780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46387" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezCaBKG"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670871018360	Marionette	INFO	Marionette enabled
+1670871018365	Marionette	INFO	Listening on port 33201
+Read port: 33201
+WebDriver BiDi listening on ws://127.0.0.1:46387
+1670871018502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezCaBKG/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+DevTools listening on ws://127.0.0.1:46387/devtools/browser/a4996e43-d2f9-400d-96d9-530c390a8030
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967309/domwalker21, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670871201381	Marionette	INFO	Stopped listening on port 33201
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670871317788	geckodriver	INFO	Listening on 127.0.0.1:39115
+1670871317825	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56787" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile19rPAF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670871318336	Marionette	INFO	Marionette enabled
+1670871318340	Marionette	INFO	Listening on port 38167
+WebDriver BiDi listening on ws://127.0.0.1:56787
+Read port: 38167
+1670871318564	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile19rPAF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56787/devtools/browser/e3b67596-fb66-4c37-a6d8-10fcb5855b15
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670871376635	geckodriver	INFO	Listening on 127.0.0.1:39613
+1670871376674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWsnlHp"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670871377205	Marionette	INFO	Marionette enabled
+1670871377209	Marionette	INFO	Listening on port 35635
+Read port: 35635
+WebDriver BiDi listening on ws://127.0.0.1:38061
+1670871377319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWsnlHp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38061/devtools/browser/df86e72c-f2c9-4623-8085-1f48c4829d06
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static.licdn.com/aero-v1/sc/h/64m2jjp8xub8sum2ip5lg6vb8, line 2: Error: GoogleOneTapError display: unknown_reason
+1670871379768	Marionette	INFO	Stopped listening on port 38167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670871412714	geckodriver	INFO	Listening on 127.0.0.1:42987
+1670871412750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56507" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilei6lnTS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670871413290	Marionette	INFO	Marionette enabled
+1670871413295	Marionette	INFO	Listening on port 46009
+Read port: 46009
+WebDriver BiDi listening on ws://127.0.0.1:56507
+1670871413405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilei6lnTS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56507/devtools/browser/0abb8b1d-ed8c-430e-b4ef-383f16084340
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670871418940	Marionette	INFO	Stopped listening on port 35635
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670871480054	Marionette	INFO	Stopped listening on port 46009
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670871482005	geckodriver	INFO	Listening on 127.0.0.1:57955
+1670871482038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59039" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1rA45K"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670871482610	Marionette	INFO	Marionette enabled
+1670871482613	Marionette	INFO	Listening on port 38047
+Read port: 38047
+WebDriver BiDi listening on ws://127.0.0.1:59039
+1670871482715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1rA45K/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59039/devtools/browser/2d6bbe2e-91f0-4f4a-a71b-5166caccab98
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670871553477	geckodriver	INFO	Listening on 127.0.0.1:55427
+1670871553509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40865" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYkZdNe"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670871554015	Marionette	INFO	Marionette enabled
+1670871554020	Marionette	INFO	Listening on port 39261
+WebDriver BiDi listening on ws://127.0.0.1:40865
+Read port: 39261
+1670871554246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYkZdNe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40865/devtools/browser/0b4ac5eb-cda1-468a-a396-1ddc21d4c190
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670871574253	geckodriver	INFO	Listening on 127.0.0.1:56743
+1670871574295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46275" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMjBOtU"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670871574942	Marionette	INFO	Marionette enabled
+1670871574946	Marionette	INFO	Listening on port 34661
+Read port: 34661
+WebDriver BiDi listening on ws://127.0.0.1:46275
+1670871575042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMjBOtU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46275/devtools/browser/b69d85a7-3e56-4ac9-971a-4e187f7f08cb
+1670871576926	Marionette	INFO	Stopped listening on port 39261
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+1670871579264	Marionette	INFO	Stopped listening on port 38047
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670871636866	geckodriver	INFO	Listening on 127.0.0.1:40347
+1670871636895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34741" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoNksTB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670871637355	Marionette	INFO	Marionette enabled
+1670871637358	Marionette	INFO	Listening on port 46329
+Read port: 46329
+WebDriver BiDi listening on ws://127.0.0.1:34741
+1670871637444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoNksTB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34741/devtools/browser/1f2edf2d-0d10-4ca8-b06c-88ebf994a2be
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+1670871639976	Marionette	INFO	Stopped listening on port 34661
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967314/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670871710990	Marionette	INFO	Stopped listening on port 46329
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670871717000	geckodriver	INFO	Listening on 127.0.0.1:49179
+1670871717033	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42993" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQvtduR"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670871717523	Marionette	INFO	Marionette enabled
+1670871717526	Marionette	INFO	Listening on port 36169
+Read port: 36169
+WebDriver BiDi listening on ws://127.0.0.1:42993
+1670871717619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQvtduR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42993/devtools/browser/7219752c-967a-4c7f-8f78-6904fe1e02a8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670871781857	geckodriver	INFO	Listening on 127.0.0.1:40233
+1670871781887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33939" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqrTJS2"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670871782361	Marionette	INFO	Marionette enabled
+1670871782365	Marionette	INFO	Listening on port 35523
+Read port: 35523
+WebDriver BiDi listening on ws://127.0.0.1:33939
+1670871782454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqrTJS2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33939/devtools/browser/5dcfb3cb-436f-40bd-9b0c-066670ea76cc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670871785809	Marionette	INFO	Stopped listening on port 36169
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670871799248	Marionette	INFO	Stopped listening on port 35523
+1670872271740	geckodriver	INFO	Listening on 127.0.0.1:53599
+1670872271772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47845" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePAWTGM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670872272271	Marionette	INFO	Marionette enabled
+1670872272275	Marionette	INFO	Listening on port 37799
+WebDriver BiDi listening on ws://127.0.0.1:47845
+Read port: 37799
+1670872272502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePAWTGM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47845/devtools/browser/1953e184-824d-4cb2-818f-db25dff5e989
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/64m2jjp8xub8sum2ip5lg6vb8, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670872380569	Marionette	INFO	Stopped listening on port 37799
+1670872382634	geckodriver	INFO	Listening on 127.0.0.1:41515
+1670872382672	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35391" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXErEJI"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670872383159	Marionette	INFO	Marionette enabled
+1670872383163	Marionette	INFO	Listening on port 34041
+Read port: 34041
+WebDriver BiDi listening on ws://127.0.0.1:35391
+1670872383260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXErEJI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35391/devtools/browser/bb8748dc-bc52-4045-9a3c-96ef663af2b1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670872450538	geckodriver	INFO	Listening on 127.0.0.1:56269
+1670872450569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60453" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileN7iaCG"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670872451064	Marionette	INFO	Marionette enabled
+1670872451068	Marionette	INFO	Listening on port 36891
+Read port: 36891
+WebDriver BiDi listening on ws://127.0.0.1:60453
+1670872451163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileN7iaCG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60453/devtools/browser/9238dd42-a04b-4f55-ac27-7d383e8f87d0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+1670872454390	Marionette	INFO	Stopped listening on port 34041
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1670872574204	geckodriver	INFO	Listening on 127.0.0.1:45045
+1670872574235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57873" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXhdO02"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670872574738	Marionette	INFO	Marionette enabled
+1670872574742	Marionette	INFO	Listening on port 40133
+WebDriver BiDi listening on ws://127.0.0.1:57873
+Read port: 40133
+1670872574958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXhdO02/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57873/devtools/browser/3aa57ddd-e3a4-4d3b-b1e3-658e374f590e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670872708293	Marionette	INFO	Stopped listening on port 40133
+1670872783372	geckodriver	INFO	Listening on 127.0.0.1:48027
+1670872783416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46815" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEylFbf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670872783898	Marionette	INFO	Marionette enabled
+1670872783902	Marionette	INFO	Listening on port 36991
+Read port: 36991
+WebDriver BiDi listening on ws://127.0.0.1:46815
+1670872784001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEylFbf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46815/devtools/browser/a9f186c9-c1cd-4ebc-ba55-9df4b26212ed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670872864026	geckodriver	INFO	Listening on 127.0.0.1:55603
+1670872864061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60379" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWIEyLr"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670872864565	Marionette	INFO	Marionette enabled
+1670872864569	Marionette	INFO	Listening on port 41593
+WebDriver BiDi listening on ws://127.0.0.1:60379
+Read port: 41593
+1670872864780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWIEyLr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60379/devtools/browser/29f1804a-8e24-418b-ad3a-60798361816b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+1670872867610	Marionette	INFO	Stopped listening on port 36991
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1670872944831	geckodriver	INFO	Listening on 127.0.0.1:38911
+1670872944867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58197" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenjMYxu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670872945379	Marionette	INFO	Marionette enabled
+1670872945382	Marionette	INFO	Listening on port 44003
+WebDriver BiDi listening on ws://127.0.0.1:58197
+Read port: 44003
+1670872945600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenjMYxu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58197/devtools/browser/b92fc119-ac66-4549-bef4-10c4f13abc8a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/53pvxhwnu4814i1e9beje3cqa, line 89: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://linkedin-api.arkoselabs.com/cdn/fc/js/39eca341811c50f1f573c72f14bd5612e0f6cd3c/standard/funcaptcha_api.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670873031859	geckodriver	INFO	Listening on 127.0.0.1:58745
+1670873031911	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49601" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiZps9x"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670873032409	Marionette	INFO	Marionette enabled
+1670873032414	Marionette	INFO	Listening on port 36845
+WebDriver BiDi listening on ws://127.0.0.1:49601
+Read port: 36845
+1670873032640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiZps9x/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49601/devtools/browser/496eaf28-1d94-4b92-85b3-2ad7adbee28d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+1670873034928	Marionette	INFO	Stopped listening on port 44003
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/53pvxhwnu4814i1e9beje3cqa, line 89: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://linkedin-api.arkoselabs.com/cdn/fc/js/39eca341811c50f1f573c72f14bd5612e0f6cd3c/standard/funcaptcha_api.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670873046518	Marionette	INFO	Stopped listening on port 36845
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670873063949	geckodriver	INFO	Listening on 127.0.0.1:37333
+1670873063983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGvfRRP"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670873064475	Marionette	INFO	Marionette enabled
+1670873064480	Marionette	INFO	Listening on port 39085
+Read port: 39085
+WebDriver BiDi listening on ws://127.0.0.1:33623
+1670873064577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGvfRRP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33623/devtools/browser/e93c95e2-9246-4636-b14b-9cc7e12d8130
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1670873101354	geckodriver	INFO	Listening on 127.0.0.1:57893
+1670873101388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43739" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNaCWdL"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670873101878	Marionette	INFO	Marionette enabled
+1670873101882	Marionette	INFO	Listening on port 38503
+Read port: 38503
+WebDriver BiDi listening on ws://127.0.0.1:43739
+1670873101971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNaCWdL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43739/devtools/browser/820806cf-ec13-427c-a784-f8579e2673c7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/53pvxhwnu4814i1e9beje3cqa, line 89: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://linkedin-api.arkoselabs.com/cdn/fc/js/39eca341811c50f1f573c72f14bd5612e0f6cd3c/standard/funcaptcha_api.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1k1xa20mhrefbm4mu6uim2qxw, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670873117451	Marionette	INFO	Stopped listening on port 38503
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670873121928	geckodriver	INFO	Listening on 127.0.0.1:37191
+1670873121968	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOrkB3D"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670873122508	Marionette	INFO	Marionette enabled
+1670873122513	Marionette	INFO	Listening on port 42377
+Read port: 42377
+WebDriver BiDi listening on ws://127.0.0.1:39371
+1670873122616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOrkB3D/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39371/devtools/browser/2a00a601-e4b0-447c-8fb6-99565a99d124
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670873169559	geckodriver	INFO	Listening on 127.0.0.1:51359
+1670873169590	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36769" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekajFJ4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670873170103	Marionette	INFO	Marionette enabled
+1670873170107	Marionette	INFO	Listening on port 46837
+WebDriver BiDi listening on ws://127.0.0.1:36769
+Read port: 46837
+1670873170328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekajFJ4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36769/devtools/browser/2cea5f43-c544-4a06-9092-c4fe4ff7b1fc
+1670873172415	Marionette	INFO	Stopped listening on port 42377
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/53pvxhwnu4814i1e9beje3cqa, line 89: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://linkedin-api.arkoselabs.com/cdn/fc/js/39eca341811c50f1f573c72f14bd5612e0f6cd3c/standard/funcaptcha_api.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670873177311	Marionette	INFO	Stopped listening on port 46837
+1670873180752	geckodriver	INFO	Listening on 127.0.0.1:39081
+1670873180787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57239" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemU7FyZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670873181289	Marionette	INFO	Marionette enabled
+1670873181294	Marionette	INFO	Listening on port 39141
+WebDriver BiDi listening on ws://127.0.0.1:57239
+Read port: 39141
+1670873181509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemU7FyZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57239/devtools/browser/2a9516da-1520-4210-acf8-67085e6b71e4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/53pvxhwnu4814i1e9beje3cqa, line 89: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://linkedin-api.arkoselabs.com/cdn/fc/js/39eca341811c50f1f573c72f14bd5612e0f6cd3c/standard/funcaptcha_api.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670873286620	Marionette	INFO	Stopped listening on port 39141
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670873473367	geckodriver	INFO	Listening on 127.0.0.1:35711
+1670873473897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46083" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWUHTyz"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670873474379	Marionette	INFO	Marionette enabled
+1670873474384	Marionette	INFO	Listening on port 39649
+Read port: 39649
+WebDriver BiDi listening on ws://127.0.0.1:46083
+1670873474486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWUHTyz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46083/devtools/browser/52b6a34e-18c7-4faf-bd64-10bf22c505ae
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670874359690	geckodriver	INFO	Listening on 127.0.0.1:55151
+1670874359727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57543" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9Eb5i0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670874360213	Marionette	INFO	Marionette enabled
+1670874360216	Marionette	INFO	Listening on port 36763
+Read port: 36763
+WebDriver BiDi listening on ws://127.0.0.1:57543
+1670874360304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9Eb5i0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57543/devtools/browser/1c0286c9-8bee-49a0-b896-8a2bff0be938
+1670874364354	Marionette	INFO	Stopped listening on port 36763
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670874490695	geckodriver	INFO	Listening on 127.0.0.1:57379
+1670874490730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "34985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUoLcup"
+*** You are running in headless mode.
+1670874491056	Marionette	INFO	Marionette enabled
+1670874491061	Marionette	INFO	Listening on port 39815
+WebDriver BiDi listening on ws://127.0.0.1:34985
+Read port: 39815
+1670874491257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUoLcup/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34985/devtools/browser/9e4f64f9-0f46-4ce2-8e9e-2e6bf1c19d74
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/53pvxhwnu4814i1e9beje3cqa, line 89: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://linkedin-api.arkoselabs.com/cdn/fc/js/39eca341811c50f1f573c72f14bd5612e0f6cd3c/standard/funcaptcha_api.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1k1xa20mhrefbm4mu6uim2qxw, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670874510193	Marionette	INFO	Stopped listening on port 39649
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670874513567	geckodriver	INFO	Listening on 127.0.0.1:60677
+1670874513612	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "34751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePwNwiY"
+*** You are running in headless mode.
+1670874513925	Marionette	INFO	Marionette enabled
+1670874513929	Marionette	INFO	Listening on port 34741
+WebDriver BiDi listening on ws://127.0.0.1:34751
+Read port: 34741
+1670874514137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePwNwiY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34751/devtools/browser/3d9a91f5-cadc-443d-97d8-8bbdfa4d1c66
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/53pvxhwnu4814i1e9beje3cqa, line 89: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://linkedin-api.arkoselabs.com/cdn/fc/js/39eca341811c50f1f573c72f14bd5612e0f6cd3c/standard/funcaptcha_api.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1k1xa20mhrefbm4mu6uim2qxw, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670874542634	geckodriver	INFO	Listening on 127.0.0.1:58795
+1670874542668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52565" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileorYVb0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670874543170	Marionette	INFO	Marionette enabled
+1670874543174	Marionette	INFO	Listening on port 38947
+WebDriver BiDi listening on ws://127.0.0.1:52565
+Read port: 38947
+1670874543400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileorYVb0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52565/devtools/browser/8a33f66e-63ca-41db-85f2-45abd6bb30a0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/53pvxhwnu4814i1e9beje3cqa, line 89: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://linkedin-api.arkoselabs.com/cdn/fc/js/39eca341811c50f1f573c72f14bd5612e0f6cd3c/standard/funcaptcha_api.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670874564650	Marionette	INFO	Stopped listening on port 38947
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670874569720	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1670874572289	geckodriver	INFO	Listening on 127.0.0.1:36773
+1670874572322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45665" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOkW7cI"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670874572808	Marionette	INFO	Marionette enabled
+1670874572813	Marionette	INFO	Listening on port 38915
+Read port: 38915
+WebDriver BiDi listening on ws://127.0.0.1:45665
+1670874572912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOkW7cI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45665/devtools/browser/70bf4092-a1aa-40f2-a6d3-2645ba0e6076
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static.licdn.com/aero-v1/sc/h/64m2jjp8xub8sum2ip5lg6vb8, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/53pvxhwnu4814i1e9beje3cqa, line 89: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://linkedin-api.arkoselabs.com/cdn/fc/js/39eca341811c50f1f573c72f14bd5612e0f6cd3c/standard/funcaptcha_api.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+1670874786632	geckodriver	INFO	Listening on 127.0.0.1:34789
+1670874786670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLFBuEM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670874787242	Marionette	INFO	Marionette enabled
+1670874787248	Marionette	INFO	Listening on port 45675
+Read port: 45675
+WebDriver BiDi listening on ws://127.0.0.1:40057
+1670874787377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLFBuEM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40057/devtools/browser/4467a2e2-091d-4562-aa21-aaeff15c5ba0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/53pvxhwnu4814i1e9beje3cqa, line 89: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://linkedin-api.arkoselabs.com/cdn/fc/js/39eca341811c50f1f573c72f14bd5612e0f6cd3c/standard/funcaptcha_api.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670874791671	Marionette	INFO	Stopped listening on port 38915
+1670874792862	Marionette	INFO	Stopped listening on port 45675
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670875204715	geckodriver	INFO	Listening on 127.0.0.1:49319
+1670875204752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "41989" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1Jmm9L"
+*** You are running in headless mode.
+1670875205044	Marionette	INFO	Marionette enabled
+1670875205049	Marionette	INFO	Listening on port 40499
+Read port: 40499
+WebDriver BiDi listening on ws://127.0.0.1:41989
+1670875205133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1Jmm9L/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41989/devtools/browser/6202b080-bbe9-467f-b260-14d0694cc7bc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/53pvxhwnu4814i1e9beje3cqa, line 89: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://linkedin-api.arkoselabs.com/cdn/fc/js/39eca341811c50f1f573c72f14bd5612e0f6cd3c/standard/funcaptcha_api.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1k1xa20mhrefbm4mu6uim2qxw, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670875223479	geckodriver	INFO	Listening on 127.0.0.1:49713
+1670875223512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54449" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilea9aEch"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670875223997	Marionette	INFO	Marionette enabled
+1670875224001	Marionette	INFO	Listening on port 33119
+Read port: 33119
+WebDriver BiDi listening on ws://127.0.0.1:54449
+1670875224107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea9aEch/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54449/devtools/browser/162bbb31-13b8-4ebf-81c9-0bd1163867fb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/53pvxhwnu4814i1e9beje3cqa, line 89: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://linkedin-api.arkoselabs.com/cdn/fc/js/39eca341811c50f1f573c72f14bd5612e0f6cd3c/standard/funcaptcha_api.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cb5umgs1vdh7jrfiuy4o4dnyz, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dt11njdevgeoe9nyqfnlbhni, line 18928: unreachable code after return statement
+1670875242314	Marionette	INFO	Stopped listening on port 33119
+1670886076993	geckodriver	INFO	Listening on 127.0.0.1:41391
+1670886077446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCJLIXQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670886078261	Marionette	INFO	Marionette enabled
+1670886078275	Marionette	INFO	Listening on port 36921
+Read port: 36921
+WebDriver BiDi listening on ws://127.0.0.1:59985
+1670886078481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCJLIXQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59985/devtools/browser/fd93745e-af43-4d06-926a-1fda340c71e8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/53pvxhwnu4814i1e9beje3cqa, line 89: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://linkedin-api.arkoselabs.com/cdn/fc/js/39eca341811c50f1f573c72f14bd5612e0f6cd3c/standard/funcaptcha_api.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/mme5wt0hi2b0a1gzvdhm1k4c, line 18926: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7x5q53iqsuab91ojyvylqmqa0, line 2484: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7x5q53iqsuab91ojyvylqmqa0, line 2484: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/mme5wt0hi2b0a1gzvdhm1k4c, line 18926: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7x5q53iqsuab91ojyvylqmqa0, line 2484: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7x5q53iqsuab91ojyvylqmqa0, line 2484: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/mme5wt0hi2b0a1gzvdhm1k4c, line 18926: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7x5q53iqsuab91ojyvylqmqa0, line 2484: unreachable code after return statement
+1670886136246	Marionette	INFO	Stopped listening on port 36921
+1670886140875	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1670886150718	geckodriver	INFO	Listening on 127.0.0.1:39771
+1670886150751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60495" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuj4Ve8"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670886151266	Marionette	INFO	Marionette enabled
+1670886151271	Marionette	INFO	Listening on port 38331
+WebDriver BiDi listening on ws://127.0.0.1:60495
+Read port: 38331
+1670886151474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuj4Ve8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60495/devtools/browser/877f796c-0c24-47ab-a323-2c8ed2d535c6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/53pvxhwnu4814i1e9beje3cqa, line 89: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://linkedin-api.arkoselabs.com/cdn/fc/js/39eca341811c50f1f573c72f14bd5612e0f6cd3c/standard/funcaptcha_api.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/mme5wt0hi2b0a1gzvdhm1k4c, line 18926: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7x5q53iqsuab91ojyvylqmqa0, line 2484: unreachable code after return statement
+1670886172343	Marionette	INFO	Stopped listening on port 38331
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670886175070	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1670886178870	geckodriver	INFO	Listening on 127.0.0.1:49005
+1670886178908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileV3KcHV"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670886179412	Marionette	INFO	Marionette enabled
+1670886179417	Marionette	INFO	Listening on port 45573
+WebDriver BiDi listening on ws://127.0.0.1:59385
+Read port: 45573
+1670886179692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileV3KcHV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59385/devtools/browser/5fc08090-f7dd-443d-9be7-8c3cab8026d8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static-exp1.licdn.com/aero-v1/sc/h/9q42psw84tv933tbvwqoe327v, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/53pvxhwnu4814i1e9beje3cqa, line 89: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://linkedin-api.arkoselabs.com/cdn/fc/js/39eca341811c50f1f573c72f14bd5612e0f6cd3c/standard/funcaptcha_api.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/mme5wt0hi2b0a1gzvdhm1k4c, line 18926: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7x5q53iqsuab91ojyvylqmqa0, line 2484: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7x5q53iqsuab91ojyvylqmqa0, line 2484: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/mme5wt0hi2b0a1gzvdhm1k4c, line 18926: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7x5q53iqsuab91ojyvylqmqa0, line 2484: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7x5q53iqsuab91ojyvylqmqa0, line 2484: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/mme5wt0hi2b0a1gzvdhm1k4c, line 18926: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7x5q53iqsuab91ojyvylqmqa0, line 2484: unreachable code after return statement
+1670886257203	Marionette	INFO	Stopped listening on port 45573
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
